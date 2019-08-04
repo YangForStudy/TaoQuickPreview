@@ -58,12 +58,9 @@ TaoQuick仓库地址 [https://github.com/jaredtao/TaoQuick](https://github.com/j
 
 [动画效果预览](Preview-animation.md)
 
-说明：动画效果暂不开源，博客/知乎/公众号会有教程和核心代码，有需要请单独联系我。
-
 ### 页面切换效果预览
 [页面切换效果预览](Preview-PageSwitch.md)
 
-说明：页面切换效果暂不开源，博客/知乎/公众号会有教程和核心代码，有需要请单独联系我。
 ### ShaderToy效果预览
 
 [ShaderToy效果预览](Preview-ShaderToy.md)
@@ -83,13 +80,14 @@ TaoQuick仓库地址 [https://github.com/jaredtao/TaoQuick](https://github.com/j
 | 作者 | 涛哥                           |
 | ---- | -------------------------------- |
 |开发理念 | 弘扬鲁班文化，传承工匠精神 |
-| 博客 | https://jaredtao.github.io/ |
+| 博客 | https://jaredtao.github.io |
+| 博客-国内镜像 | https://jaredtao.gitee.io |
 |知乎专栏| https://zhuanlan.zhihu.com/TaoQt |
 |微信公众号| Qt进阶之路 |
+|QQ群| 734623697(高质量群，只能交流技术、分享书籍、帮助解决实际问题）|
 | 邮箱 | jared2020@163.com                |
 | 微信 | xsd2410421                       |
 | QQ、TIM | 759378563                      |
-
 ***
 
 QQ(TIM)、微信二维码
